@@ -3,4 +3,9 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-Added a picture of Yaktocat
+``` python
+for i in nums:
+  print(i)
+```
+
+Added python code block 
