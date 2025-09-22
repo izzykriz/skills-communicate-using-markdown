@@ -8,4 +8,8 @@ for i in nums:
   print(i)
 ```
 
-Added python code block 
+- [x] complete intro to github
+- [ ] complete communicate using markdown
+- [ ] complete github pages
+
+added a task list
